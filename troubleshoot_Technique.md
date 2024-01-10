@@ -4,7 +4,7 @@ ipconfig /all
 # Flush DNS Cache:
 ipconfig /flushdns
 
-# Reset TCP/IP"
+# Reset TCP/IP:
 netsh winsock reset
 
 # Restart Network Adapter:
