@@ -8,8 +8,8 @@ ipconfig /flushdns
 netsh winsock reset
 
 # Restart Network Adapter:
-netsh interface ipv4 reset
-netsh interface ipv6 reset
+1. netsh interface ipv4 reset
+2. netsh interface ipv6 reset
 
 # Restart your Computer
 
